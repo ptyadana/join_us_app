@@ -2,7 +2,7 @@
 Compilation of Node.js project and notes.
 
 ## Projects
-**JoinUs**: A simple Node.js web application which ask user to input email address and show the updates of waiting lists. [Take me to the app!](https://joinus-by-phonethiriyadana.run.goorm.io)
+**JoinUs**: A simple Node.js web application which ask user to input email address and show the updates of waiting lists.
 
 **schema**: schema.sql
 includes challenges and schema for the project.
