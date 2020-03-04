@@ -1,0 +1,26 @@
+** Create package.json ***
+
+1. go to folder of your application directory.
+
+2. run "npm init"							: Initate package.json file. open npm in interactive mode and you can change accordingly.
+
+3. For entry point, change to <<app.js>> to whatever js file you want to point. 
+
+---------------------------------------------------------------
+
+** NPM install **
+
+npm install <<libray name>>					: Example: npm install faker
+
+npm install <<libary name>> --save			: install and save the library name into "package.json" file automatically.
+
+npm install <<libary name1>> <<library name2>> --save
+
+---------------------------------------------------------------
+
+** Sharing package.json with other developer who will work remotely **
+
+you only need to share package.json where every library are captured.
+They just need to use it and type "npm install" to do installation.
+
+---------------------------------------------------------------
