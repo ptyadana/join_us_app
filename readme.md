@@ -6,6 +6,9 @@ Compilation of Node.js project and notes.
 
 **schema**: schema.sql
 includes challenges and schema for the project.
+
+![JoinUs](https://raw.githubusercontent.com/ptyadana/join_us_app/master/join-us-by-phonethiriyadana.png)
+
 ### Technologies Used:
 - **Node.js**
 - **MySQL**
@@ -20,3 +23,4 @@ includes challenges and schema for the project.
 
 ### Templates:
 - **EJS**   - template to be used with Express.
+
